@@ -145,5 +145,5 @@ To verify:
 ====
 
 == Next Steps
-After completing the steps outlined in this guide, `onecx-local-env` is now set up and ready to run a local OneCX environment. Instructions on how to start, access, and stop the local environment can be found in the xref:general:getting-started.adoc[Getting Started - Running OneCX locally] guide.
+After completing the steps outlined in this guide, `onecx-local-env` is now set up and ready to run a local OneCX environment. Instructions on how to start, access, and stop the local environment can be found in the xref:documentation:local-env:general/getting-started.adoc[Getting Started - Running OneCX locally] guide.
 

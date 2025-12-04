@@ -5,7 +5,7 @@
 
 [NOTE]
 ====
-This guide assumes that `onecx-local-env` has already been set up and installed according to the instructions provided in the xref:general:setup/installation.adoc[Setup & Installation] documentation.
+This guide assumes that `onecx-local-env` has already been set up and installed according to the instructions provided in the xref:documentation:local-env:general/setup/installation.adoc[Setup & Installation] documentation.
 ====
 
 This guide provides a quick overview of the steps required to run a local OneCX environment. It includes instructions on starting the environment, accessing OneCX in a browser, and stopping the environment when finished.
@@ -23,7 +23,7 @@ This command will start all required services and import default data into the e
 
 [NOTE]
 ====
-The `start-onecx.sh` script accepts optional flags to customize its behavior (e.g. skipping data imports, starting additional services etc.). A full list of all available flags can be found in the xref:advanced:scripts/start.adoc[`start-onecx.sh` documentation] or by running `./start-onecx.sh -h`.
+The `start-onecx.sh` script accepts optional flags to customize its behavior (e.g. skipping data imports, starting additional services etc.). A full list of all available flags can be found in the xref:documentation:local-env:advanced/scripts/start.adoc[`start-onecx.sh` documentation] or by running `./start-onecx.sh -h`.
 ====
 
 == Accessing OneCX in a browser
